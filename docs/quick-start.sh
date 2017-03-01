@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 echo "Start update your project!"
 echo "=========================="
 echo " "
